@@ -57,7 +57,7 @@ void input() { //procedur untuk input
 void SelectionSort() {
     for (i = 0; i <= n - 2; i++) { 
         min_index = j;
-        j = i + 1; 
+        j = i + 1 ; 
         while (j+1 <= n-1)
         { 
             arr[i]  < min_index;
